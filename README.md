@@ -5,6 +5,5 @@ Final results favoured the LSTM model and proved potential use cases for time-se
 
 A short video explaining the findings and impact of the research project: 
 
-<div align="center">
-  [![Video](https://img.youtube.com/vi/GalC6bFxAVU/0.jpg)](https://www.youtube.com/watch?v=GalC6bFxAVU)
-</div>
+[![Video](https://img.youtube.com/vi/GalC6bFxAVU/0.jpg)](https://www.youtube.com/watch?v=GalC6bFxAVU)
+
